@@ -1,5 +1,5 @@
 {
-  "name": "apollo-server-plugin-base",
+  "name": "@jdmoody/apollo-server-plugin-base",
   "version": "0.6.5",
   "description": "Apollo Server plugin base classes",
   "main": "dist/index.js",
